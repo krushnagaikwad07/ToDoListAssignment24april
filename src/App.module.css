@@ -1,0 +1,43 @@
+body {
+  background-color: rgba(0, 0, 0, 0.723);
+}
+.App {
+  text-align: center;
+  margin-top: 11rem;
+  border: solid #5B6DCD 5px;
+  padding: 2rem;
+  margin-left: 25rem;
+  margin-right: 25rem;
+  background-image: linear-gradient( 29deg, rgb(226, 226, 14), rgba(255, 255, 255, 0.721));
+  gap: 1rem;
+  font-size: 1.4rem;
+  
+}
+
+button{
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 12px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 2px #999;
+  margin-left: 0.7rem;
+}
+
+button:hover {background-color: #3e8e41}
+
+input{
+  border-radius: 1rem;
+  font-size: 1.3rem;
+  padding: 0.5rem;
+  
+}
+.Bton{
+  gap: 1rem;
+}
